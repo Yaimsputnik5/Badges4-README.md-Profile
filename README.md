@@ -33,7 +33,9 @@ Thank you for supporting this work. Become a sponsor <a href="https://github.com
 
 ### 👑 Current
 
-**None 😞. Put you or your company here.**
+|[@brunnojob](https://github.com/brunnojob) |                                                                  
+| :----: |
+|<img src="https://github.com/brunnojob.png?size=128" width=128> |
 
 ### 🔙 Last 5
 
